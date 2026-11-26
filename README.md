@@ -8,7 +8,7 @@ One-line entry for make.fun's "Roast the Smart Fridge: One Line, Best Laugh Wins
 
 ## Entry
 
-> My smart fridge has a camera inside and still asks who ate the leftovers, like it didn't watch me do it in 4K.
+> My thermostat and I have a custody battle over 21 degrees, and every night it resets to 16 like it pays the heating bill.
 
 ## Run it
 

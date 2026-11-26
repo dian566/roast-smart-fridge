@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-# roast-smart-fridge -- one roast line for a smart fridge that watches you.
+# roast-smart-fridge -- one roast line for a smart-home gadget that fights back.
 #
 # The contest asks for a single line (160 characters max) roasting the smart
 # fridge or any other smart home gadget it shares a house with. This script
@@ -12,8 +12,8 @@
 import sys
 from pathlib import Path
 
-# The whole entry. One line, 111 characters, no trailing newline on disk.
-ROAST_LINE = "My smart fridge has a camera inside and still asks who ate the leftovers, like it didn't watch me do it in 4K."
+# The whole entry. One line, 122 characters, no trailing newline on disk.
+ROAST_LINE = "My thermostat and I have a custody battle over 21 degrees, and every night it resets to 16 like it pays the heating bill."
 
 MAX_CHARS = 160
 DESTINATION = Path("/output/entry.txt")
