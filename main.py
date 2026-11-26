@@ -12,7 +12,7 @@
 import sys
 from pathlib import Path
 
-# The whole entry. One line, 122 characters, no trailing newline on disk.
+# The whole entry. One line, 121 characters, no trailing newline on disk.
 ROAST_LINE = "My thermostat and I have a custody battle over 21 degrees, and every night it resets to 16 like it pays the heating bill."
 
 MAX_CHARS = 160
